@@ -1,4 +1,4 @@
-# trylab
+# elixir 在线实验环境
 
 实验楼软件库示例空白仓库
 
@@ -8,7 +8,7 @@
 
 ## 软件官网
 
-官网的链接
+https://elixir-lang.org/
 
 ## Dockerfile 使用方法
 
@@ -16,4 +16,4 @@
 
 ## 资源链接
 
-- [优质教程](https://github.com/shiyanlou/trylab)
+- https://elixir-lang.org/
